@@ -6,28 +6,33 @@ Data Analysis
 **Overview**: This project analyzes childcare facilities across Ontario using data from the Ontario Open Data Portal. **The goal is to understand trends**, **identify challenges**, and **provide recommendations** to improve access and quality of childcare services in the province.
 
 Key Tasks
+
 **Data Analysis:**
 
 Explored regional distribution of childcare facilities.
 Analyzed operational status (active/inactive) and program types (full-day, after-school, etc.).
 Investigated trends over time and identified regions with underserved populations.
+
 **Insights:**
 
 Unequal access to childcare facilities across regions.
 Limited availability of French-language childcare centers.
 A significant proportion of inactive childcare centers.
+
 **Recommendations**:
 
 Expand services in underserved areas.
 Increase French-language childcare options in Francophone regions.
 Provide support to active centers for sustainability.
 Simplify licensing processes to help centers remain operational.
+
 **Dashboard**:
 
 Created an interactive Tableau dashboard to visualize findings and trends.
 View Dashboard Here:  https://public.tableau.com/app/profile/kaushal.parmar8408/vizzes 
 
 **Tools Used**
+
 Tableau Public: Data visualization and dashboard creation.
 Ontario Open Data Portal: Source of childcare facility data.
 
